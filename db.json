@@ -1,31 +1,24 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard driver on workstation 005",
+      "message": "Changed network card in server 007",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2019-08-07T01:50:43.099Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "1122 wireless down",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
-    },
-    {
-      "message": "Station 002 is not active",
-      "attention": false,
       "tech": "John Doe",
-      "date": "2019-08-07T01:48:40.568Z",
+      "date": "2019-08-07T01:51:16.927Z",
+      "id": 3
+    },
+    {
+      "message": "Hard drive on station 010 failed",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-08-07T01:59:18.034Z",
       "id": 4
     }
   ],
