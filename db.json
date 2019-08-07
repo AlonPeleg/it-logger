@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "1122 wireless down",
-      "attention": true,
+      "id": 3,
+      "message": "1122 wireless back up",
+      "attention": false,
       "tech": "John Doe",
-      "date": "2019-08-07T01:51:16.927Z",
-      "id": 3
+      "date": "2019-08-07T02:22:31.448Z"
     },
     {
       "message": "Hard drive on station 010 failed",
